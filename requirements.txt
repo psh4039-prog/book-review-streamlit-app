@@ -1,4 +1,6 @@
-streamlit
-requests
-beautifulsoup4
-pandas
+streamlit==1.38.0
+pandas==2.2.2
+numpy==1.26.4
+plotly==5.22.0
+gspread==6.1.2
+oauth2client==4.1.3
